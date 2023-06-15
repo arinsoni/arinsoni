@@ -15,3 +15,11 @@
 📫 If you'd like to connect, collaborate, or have a chat about technology, gaming, or table tennis, feel free to reach out to me. I'm always excited to meet new like-minded individuals and explore new opportunities.
 
 Let's build something awesome together! 😄
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
