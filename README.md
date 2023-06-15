@@ -1,4 +1,4 @@
-👋 Hello there! I'm Arin Soni, a software enthusiast from IIT Bombay 🎓.
+##👋 Hello there! I'm Arin Soni, a software enthusiast from IIT Bombay 🎓.
 
 💻 I love diving into the world of coding and exploring new technologies. My main areas of interest include software development, machine learning, and data science. I enjoy building innovative solutions and tackling complex problems.
 
