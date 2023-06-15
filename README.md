@@ -34,7 +34,6 @@ Besides coding and gaming, I also enjoy contributing to open-source projects. I 
   <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-
 <p align="center">
   <em>Let's build something awesome together! 😄</em>
 </p>
