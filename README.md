@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/arinsoni/arinsoni/blob/main/assets/banner.gif" alt="Banner">
-</p>
-
 # <p align="center">👋 Hello there! I'm Arin Soni</p>
 <p align="center">A software enthusiast from IIT Bombay 🎓</p>
 
