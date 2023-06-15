@@ -19,7 +19,7 @@ I'm also an avid gamer, and I enjoy playing video games in my spare time. Gaming
 
 ## 🌟 On the Path of Learning and Impact
 
-Currently, I'm pursuing my studies at IIT Bombay, where I'm honing my skills in computer science and engineering. I'm passionate about leveraging technology to make a positive impact on society.
+Currently, I'm pursuing my studies at IIT Bombay, where I'm honing my skills in computer science. I'm passionate about leveraging technology to make a positive impact on society.
 
 ## 🚀 Collaborating and Innovating
 
@@ -30,8 +30,8 @@ Outside of academics, I actively participate in coding competitions and hackatho
 Besides coding and gaming, I also enjoy contributing to open-source projects. I believe in the power of collaboration and the open-source community's ability to drive innovation.
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-me%40example.com-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your-arinsoni.iitb@gmail.com"><img src="https://img.shields.io/badge/Email-me%40example.com-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/arin-soni-1bab321ba/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
