@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/your-username/arinsoni/blob/main/assets/banner.gif" alt="Banner">
+  <img src="https://github.com/arinsoni/arinsoni/blob/main/assets/banner.gif" alt="Banner">
 </p>
 
 # <p align="center">👋 Hello there! I'm Arin Soni</p>
