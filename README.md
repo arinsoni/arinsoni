@@ -30,7 +30,7 @@ Outside of academics, I actively participate in coding competitions and hackatho
 Besides coding and gaming, I also enjoy contributing to open-source projects. I believe in the power of collaboration and the open-source community's ability to drive innovation.
 
 <p align="center">
-  <a href="mailto:your-arinsoni.iitb@gmail.com"><img src="https://img.shields.io/badge/Email-me%40example.com-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:your-arinsoni.iitb@gmail.com"><img src="https://img.shields.io/badge/Email-me%40arinsoni.iitb.com-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
   <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/arin-soni-1bab321ba/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 </p>
 
