@@ -17,3 +17,5 @@
 <p align="center">
   <em>Let's collaboratively craft something extraordinary! 😄</em>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?arinsoni=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
