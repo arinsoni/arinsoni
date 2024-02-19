@@ -1,5 +1,4 @@
-## GitHub Status
-![Arin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arinsoni&show_icons=true&theme=radical)
+
 
 
 ## Trophies
