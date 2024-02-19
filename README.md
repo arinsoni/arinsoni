@@ -1,6 +1,7 @@
 <h1>Software Engineer | Aviation Industry Enthusiast | IIT Bombay</h1>
 
 <p><strong>🚀 Specializing in software development, machine learning, and data science with a focus on the Aviation Industry.</strong> </p>
+<p><strong>🚀 AI model with voice cloning for enhancing scalability</strong> </p>
 
 <p><strong>🏆 Achievements:</strong> Lead a team to 2nd place in DevQuest, a 24-hour web development hackathon. Developed 'Quickify', an app for secure and efficient user experiences.</p>
 
