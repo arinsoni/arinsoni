@@ -12,7 +12,7 @@
  <a href="https://www.linkedin.com/in/arin-soni-1bab321ba/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
  </a>
- <a href="[https://www.linkedin.com/in/arin-soni-1bab321ba/](https://www.instagram.com/_arinsoni/)">
+ <a href="https://www.instagram.com/_arinsoni/">
     <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
  </a>
 </p>
