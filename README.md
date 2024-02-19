@@ -1,11 +1,10 @@
-<h1>Software Engineer | Aviation Industry Enthusiast | IIT Bombay</h1>
+## GitHub Status
+![Arin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arinsoni&show_icons=true&theme=radical)
 
-<p><strong>🚀 Specializing in software development, machine learning, and data science with a focus on the Aviation Industry.</strong> </p>
-<p><strong>🚀 AI model with voice cloning for enhancing scalability</strong> </p>
 
-<p><strong>🏆 Achievements:</strong> Lead a team to 2nd place in DevQuest, a 24-hour web development hackathon. Developed 'Quickify', an app for secure and efficient user experiences.</p>
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=arinsoni)](https://github.com/yourusername)
 
-<p><strong>🌟 Aspiration:</strong> Passionate about leveraging technology in aviation. Eager for opportunities in cutting-edge developments.</p>
 
 <p align="center">
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arinsoni.iitb@gmail.com">
