@@ -12,6 +12,9 @@
  <a href="https://www.linkedin.com/in/arin-soni-1bab321ba/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
  </a>
+ <a href="[https://www.linkedin.com/in/arin-soni-1bab321ba/](https://www.instagram.com/_arinsoni/)">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram">
+ </a>
 </p>
 <p align="center">
   <em>Let's collaboratively craft something extraordinary! 😄</em>
